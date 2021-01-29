@@ -1,0 +1,185 @@
+TradeName,unitPrice,genericFlag
+Abacavir Sulfate,4,"False"
+Activase,4,"False"
+Acular,4,"False"
+Adcirca,4,"True"
+Adefovir Dipivoxil,40,"True"
+Advair HFA,40,"True"
+Aerospan HFA,4,"True"
+Alprostadil,40,"False"
+Altabax,40,"True"
+Amiloride,40,"False"
+Aminosyn II 8.5%,4,"False"
+Amyl Nitrite,40,"False"
+Antivenin,40,"True"
+Aprotinin,4,"True"
+Augmentin XR,40,"False"
+Aygestin,40,"False"
+Azathioprine,4,"False"
+Azelaic Acid,4,"False"
+Azelex,4,"False"
+Azmacort,40,"True"
+Azopt,40,"False"
+Betagan,40,"False"
+Bioclate,4,"False"
+Botulinum Toxin Type A,40,"True"
+Carteolol,40,"True"
+Caverject,40,"False"
+Cerezyme,40,"False"
+Chorionic Gonadotropin,40,"False"
+Cinryze,40,"False"
+Ciprofloxacin and Dexamethasone,40,"False"
+Clonazepam,40,"False"
+Clonidine,40,"False"
+Clorpres,40,"True"
+Codeine,40,"True"
+Corgard,40,"True"
+Corvert,40,"False"
+Cyclessa,40,"False"
+Cytoxan,4,"True"
+Dalmane,4,"True"
+Daunorubicin,4,"False"
+Demulen,40,"False"
+DepoDur,40,"False"
+Desipramine Hydrochloride,4,"False"
+Diphenhydramine,4,"False"
+Dolobid,40,"False"
+Dopar,40,"False"
+Dopram,40,"True"
+Elaprase,4,"True"
+Eldepryl,40,"True"
+Emcyt,40,"False"
+Emend,4,"False"
+Ephedrine,4,"True"
+Eplerenone,40,"False"
+Epoetin Alfa,40,"True"
+Estradiol Acetate,4,"False"
+Etodolac,40,"True"
+Exjade,4,"True"
+Fabrazyme,40,"False"
+Famciclovir,40,"True"
+Ferumoxytol,40,"True"
+Floxin Otic,40,"True"
+FluMist,40,"False"
+Fluothane,40,"False"
+Fluvirin,40,"False"
+Follitropin Alfa,40,"True"
+Formoterol Fumarate Inhalation Powder,40,"False"
+Fosamax Plus D,4,"True"
+Frovatriptan Succinate,4,"False"
+Furadantin,40,"True"
+Galsulfase,40,"False"
+Gammagard,4,"True"
+Ganirelix Acetate Injection,40,"True"
+Genotropin,40,"True"
+Geocillin,40,"False"
+Gleevec,4,"False"
+Gliadel,4,"True"
+Goserelin Acetate Implant,4,"False"
+Grepafloxacin,4,"False"
+HalfLytely and Bisacodyl,4,"False"
+Heparin Lock Flush,4,"True"
+Hepatitis A Vaccine-Inactivated,4,"True"
+Hepatitis B Vaccine Recombinant,40,"False"
+Human Secretin,4,"True"
+Ibritumomab Tiuxetan,40,"True"
+Iloperidone,4,"True"
+Iloprost,4,"False"
+Infed,4,"False"
+Intelence,40,"True"
+Irbesartan-Hydrochlorothiazide,4,"True"
+Ixempra,40,"True"
+Keppra XR,4,"True"
+Ketamine Hydrochloride,4,"True"
+Ketek,4,"True"
+Klonopin,40,"True"
+lacosamide,4,"True"
+Lapatinib,40,"True"
+Levo-T,40,"False"
+Levobetaxolol Hydrochloride,4,"False"
+Librium,40,"False"
+Lioresal Intrathecal,4,"True"
+Lisdexamfetamine Dimesylate,4,"True"
+Livalo,40,"False"
+Lufyllin,40,"False"
+Luxiq,40,"False"
+Macrodantin,4,"True"
+Mafenide Acetate,4,"True"
+Menotropins,40,"False"
+Mesalamine,40,"True"
+Metaraminol,40,"True"
+Methacholine Chloride,4,"True"
+MetroCream,40,"False"
+MetroLotion,40,"False"
+Micardis,4,"True"
+Micronized Glyburide,40,"False"
+Mycophenolate Mofetil,4,"False"
+Myfortic,40,"False"
+Nafcillin Sodium,4,"False"
+Naloxone,40,"True"
+Nateglinide,40,"False"
+Niferex-150,40,"True"
+Nortriptyline HCl,4,"True"
+Nystatin,4,"False"
+Oleptro,40,"False"
+Optivar,4,"False"
+Ortho Tri Cyclen,40,"True"
+Oxymorphone Hydrochloride,40,"True"
+Paclitaxel,4,"True"
+Palifermin,4,"False"
+Papain,4,"False"
+Pentetate Zinc Trisodium,4,"True"
+Phenytoin,40,"False"
+Phoslo,4,"False"
+Pitressin,4,"False"
+Polifeprosan 20,4,"True"
+Poractant Alfa,40,"False"
+Propofol,4,"True"
+Prostigmin,4,"True"
+Pseudoephedrine,40,"True"
+Quetiapine Fumarate,4,"True"
+Quixin,40,"True"
+Rapamune,40,"True"
+Regadenoson,4,"False"
+Relenza,40,"False"
+Rhogam Ultra-Filtered Plus,40,"True"
+Romiplostim,40,"True"
+Salsalate,4,"True"
+Savella,4,"True"
+Simvastatin,4,"True"
+Sodium ferric gluconate,4,"True"
+Solu Cortef,40,"True"
+Striant,40,"True"
+Stromectol,4,"False"
+Sucralfate,40,"True"
+Sufenta,4,"True"
+Sumavel DosePro,4,"False"
+Sunitinib Malate,4,"False"
+Supprelin LA,4,"True"
+Tabloid,40,"False"
+Temazepam,40,"False"
+Temodar,40,"True"
+Tenecteplase,4,"False"
+Teslac,4,"True"
+Teveten HCT,4,"True"
+Thorazine,4,"False"
+Tiagabine Hydrochloride,40,"True"
+Timolol,4,"True"
+Toprol XL,40,"False"
+Torecan,40,"False"
+Trazodone Hydrochloride,40,"True"
+Treanda,4,"False"
+Triazolam,4,"False"
+Tussionex,4,"True"
+Uloric,40,"True"
+Univasc,4,"False"
+Vantin,4,"False"
+Vesanoid,40,"True"
+Visicol,4,"True"
+Vivactil,40,"True"
+Vytorin,40,"True"
+Xanax,4,"True"
+Yaz,4,"False"
+Zirgan,40,"False"
+Zolinza,40,"False"
+Zovia,40,"False"
